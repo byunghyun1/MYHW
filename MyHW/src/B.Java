@@ -9,7 +9,7 @@ public class B {
 	}
 	public void bark()
 	{
-		System.out.println(name + "ÀÌ BÂ¢´Â´Ù.");
+		System.out.println(name + "ÀÌA BÂ¢´Â´Ù.");
 	}
 
 }
